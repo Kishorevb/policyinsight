@@ -20,11 +20,9 @@ Scalability and Performance: The system is designed to scale efficiently, accomm
 Figure 1: The system architecture of PolicyInsight.
 
 
+
 ![image](https://github.com/Kishorevb/policyinsight/assets/22257047/eb0bd5dd-6419-4a38-a0c1-09ed2a043807)
 
 Figure 4: An overview of PolicyInsight.
 
 
-
-
-Figure 4: An overview of PolicyInsight.
