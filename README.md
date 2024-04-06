@@ -1,4 +1,4 @@
-# policyinsight
+# PolicyInsight
 PolicyInsight: A Dynamic Framework for Efficient Government Policy Monitoring
 
 In this work, we are aiming to develop an efficient and a comprehensive policy monitoring framework with the following features:
