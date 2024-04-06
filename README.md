@@ -10,9 +10,12 @@ Automated Alerts and Notifications: The dynamic approach includes the implementa
 Scalability and Performance: The system is designed to scale efficiently, accommodating an increasing volume of policy documents and users. Performance optimization is a key aspect, ensuring that the dynamic monitoring process remains efficient even as the dataset grows.
 
 ![image](https://github.com/Kishorevb/policyinsight/assets/22257047/41c31ef2-29a6-4b10-9c60-cfda1c37ea9a)
+
 Figure 1: The system architecture of PolicyInsight.
 
+
 ![image](https://github.com/Kishorevb/policyinsight/assets/22257047/eb0bd5dd-6419-4a38-a0c1-09ed2a043807)
+
 Figure 4: An overview of PolicyInsight.
 
 
