@@ -1,0 +1,7 @@
+{
+  "max_depth": 10,
+  "website_url": "https://www.canada.ca",
+  "sleep_interval_in_msec": 1000,
+  "blacklist_url_substrings": "#, /fr/, /news/",
+  "blacklist_url_extensions": ".pdf, .jpg, .jpeg, .JPEG, .JPG, .docx, .doc, .xls, .xlsx, .ppt, .pptx"
+}
